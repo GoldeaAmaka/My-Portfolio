@@ -5,7 +5,7 @@
 This repository contains the source code for my personal portfolio website, built to showcase my data analytics, Python, and web development projects.
 
 ### Live Website
-👉 https://goldeaamaka.github.io/My-Portfolio/  
+👉 https://github.com/GoldeaAmaka/My-Portfolio
 
 ---
 

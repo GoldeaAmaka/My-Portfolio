@@ -42,7 +42,6 @@ Each project includes:
 - GitHub source code
 - Live demo or documentation (where applicable)
 
----
 
 ### Repository Structure
 ```text

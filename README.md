@@ -35,7 +35,7 @@ The portfolio serves as a central hub for:
 ### Project Highlights
 - **Real-Time Risk Alerts Dashboard** (Streamlit)
 - **Coffee Sales Data Cleaning & Feature Engineering** (Python & Pandas)
-- Additional analytics and data storytelling projects
+- **Research Analytics & Consumer Insights**
 
 Each project includes:
 - Clear description
